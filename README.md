@@ -3,7 +3,7 @@
 ###### Languages & Syntax:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
 
-<img align="right" width=310px alt="SPINKAT" src="https://media.tenor.com/-GNA5aKsKYwAAAAi/gato-kl-cat.gif"/>
+<img align="right" width=310px alt="SPINKAT" src="https://media.tenor.com/ddK9nb4gMIUAAAAi/cat-silly.gif"/>
 
 ###### Frontend Development:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
