@@ -2,6 +2,8 @@
 
 # Hi, my name is Marcos
 
+### I like to make cool and useful things 
+
 ###### Languages & Syntax:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
 
